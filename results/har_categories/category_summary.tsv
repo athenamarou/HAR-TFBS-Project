@@ -1,0 +1,6 @@
+category	count	percent	label
+promoter_proximal	296	9.1	Promoter-proximal (≤2 kb from TSS)
+exonic	154	4.7	Exonic (coding overlap)
+intronic	1668	51.2	Intronic (gene body)
+intergenic_proximal	1139	35.0	Intergenic proximal (≤500 kb from gene)
+intergenic_distal	0	0.0	Intergenic distal (>500 kb from gene)

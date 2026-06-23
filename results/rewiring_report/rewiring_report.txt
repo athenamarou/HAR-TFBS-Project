@@ -1,0 +1,128 @@
+======================================================================
+TRANSCRIPTION FACTOR BINDING REWIRING REPORT
+Human Accelerated Regions — Human vs Chimpanzee
+======================================================================
+
+HARs with rewiring events: 3235
+Unique TFs involved:        891
+Total rewiring positions:   288029
+
+======================================================================
+TFBS GAINED IN HUMAN (human_only binding)
+======================================================================
+
+  ZGLP1                 positions: 3500  substitution-driven:  850  HARs: 1272
+  VAX2                  positions: 1568  substitution-driven:  324  HARs: 745
+  HOXC8                 positions: 1425  substitution-driven:  288  HARs: 628
+  BSX                   positions: 1404  substitution-driven:  282  HARs: 702
+  HOXB2                 positions: 1328  substitution-driven:  273  HARs: 637
+  UNCX                  positions: 1287  substitution-driven:  241  HARs: 690
+  GSX1                  positions: 1259  substitution-driven:  251  HARs: 642
+  NKX6-2                positions: 1259  substitution-driven:  251  HARs: 642
+  HOXA1                 positions: 1193  substitution-driven:  241  HARs: 592
+  IRX5                  positions: 1190  substitution-driven:  264  HARs: 751
+  SHOX                  positions: 1183  substitution-driven:  244  HARs: 663
+  Lhx4                  positions: 1162  substitution-driven:  227  HARs: 573
+  ALX3                  positions: 1149  substitution-driven:  216  HARs: 630
+  PDX1                  positions: 1149  substitution-driven:  229  HARs: 613
+  HOXB3                 positions: 1149  substitution-driven:  229  HARs: 613
+  HOXA7                 positions: 1146  substitution-driven:  237  HARs: 606
+  DLX6                  positions: 1134  substitution-driven:  228  HARs: 598
+  HOXB5                 positions: 1069  substitution-driven:  218  HARs: 542
+  RAX2                  positions: 1033  substitution-driven:  197  HARs: 606
+  MNX1                  positions: 1027  substitution-driven:  200  HARs: 562
+
+======================================================================
+TFBS LOST IN HUMAN (chimp_only binding)
+======================================================================
+
+  ZGLP1                 positions: 3523  substitution-driven:  820  HARs: 1300
+  VAX2                  positions: 1810  substitution-driven:  329  HARs: 937
+  HOXC8                 positions: 1671  substitution-driven:  288  HARs: 751
+  BSX                   positions: 1564  substitution-driven:  285  HARs: 820
+  HOXB2                 positions: 1541  substitution-driven:  275  HARs: 774
+  UNCX                  positions: 1516  substitution-driven:  274  HARs: 837
+  GSX1                  positions: 1454  substitution-driven:  261  HARs: 799
+  NKX6-2                positions: 1454  substitution-driven:  261  HARs: 799
+  HOXA1                 positions: 1390  substitution-driven:  244  HARs: 707
+  Lhx4                  positions: 1352  substitution-driven:  235  HARs: 692
+  ALX3                  positions: 1350  substitution-driven:  250  HARs: 756
+  SHOX                  positions: 1343  substitution-driven:  270  HARs: 769
+  PDX1                  positions: 1334  substitution-driven:  238  HARs: 751
+  HOXB3                 positions: 1334  substitution-driven:  238  HARs: 751
+  HOXA7                 positions: 1325  substitution-driven:  240  HARs: 732
+  DLX6                  positions: 1316  substitution-driven:  238  HARs: 729
+  HOXB5                 positions: 1253  substitution-driven:  221  HARs: 636
+  IRX5                  positions: 1219  substitution-driven:  273  HARs: 784
+  TBP                   positions: 1198  substitution-driven:  210  HARs: 628
+  RAX2                  positions: 1194  substitution-driven:  206  HARs: 714
+
+======================================================================
+TOP HARs BY REWIRING ACTIVITY
+======================================================================
+
+  HAR_2369                   rewiring positions: 2471  TFs affected: 267
+  HAR_1216                   rewiring positions: 2411  TFs affected: 325
+  HAR_3162                   rewiring positions: 2373  TFs affected: 231
+  HAR_522                    rewiring positions: 1568  TFs affected: 277
+  HAR_1162                   rewiring positions: 1322  TFs affected: 207
+  HAR_2175                   rewiring positions: 1137  TFs affected: 200
+  HAR_926                    rewiring positions: 1133  TFs affected: 218
+  HAR_2301                   rewiring positions: 1127  TFs affected: 251
+  HAR_2404                   rewiring positions: 1104  TFs affected: 242
+  HAR_2385                   rewiring positions: 1038  TFs affected: 239
+  HAR_2170                   rewiring positions: 1023  TFs affected: 176
+  HAR_2759                   rewiring positions: 1022  TFs affected: 196
+  HAR_1098                   rewiring positions: 1016  TFs affected: 231
+  HAR_3168                   rewiring positions: 1004  TFs affected: 199
+  HAR_1153                   rewiring positions:  980  TFs affected: 195
+
+======================================================================
+SUBSTITUTION-DRIVEN REWIRING (most likely causal)
+Positions where binding change coincides with a nucleotide substitution
+======================================================================
+
+  HAR_522                    ZGLP1                 lost_in_human         substitution positions: 22
+  HAR_1216                   ZGLP1                 gained_in_human       substitution positions: 16
+  HAR_2369                   VAX2                  gained_in_human       substitution positions: 16
+  HAR_2369                   HOXB2                 gained_in_human       substitution positions: 15
+  HAR_2369                   NKX6-1                gained_in_human       substitution positions: 15
+  HAR_2369                   Lhx4                  gained_in_human       substitution positions: 15
+  HAR_2369                   HOXA1                 gained_in_human       substitution positions: 15
+  HAR_2369                   MNX1                  gained_in_human       substitution positions: 14
+  HAR_2369                   BSX                   gained_in_human       substitution positions: 14
+  HAR_2369                   HOXB3                 gained_in_human       substitution positions: 14
+  HAR_2369                   NKX6-2                gained_in_human       substitution positions: 14
+  HAR_2369                   EVX1                  gained_in_human       substitution positions: 14
+  HAR_2369                   EVX2                  gained_in_human       substitution positions: 14
+  HAR_2369                   PDX1                  gained_in_human       substitution positions: 14
+  HAR_2369                   HOXC8                 gained_in_human       substitution positions: 14
+  HAR_2369                   GSX1                  gained_in_human       substitution positions: 14
+  HAR_1216                   ZGLP1                 lost_in_human         substitution positions: 14
+  HAR_522                    ZGLP1                 gained_in_human       substitution positions: 14
+  HAR_2184                   ZNF384                lost_in_human         substitution positions: 14
+  HAR_2369                   HOXA2                 gained_in_human       substitution positions: 13
+
+======================================================================
+HARs COMPLETELY LOST IN HUMAN
+(only chimp_only binding — no shared, no human_only hits)
+======================================================================
+
+  Total HARs completely lost in human: 7
+  Total chimp-only TFBS positions across these HARs: 35
+
+  Genomic category breakdown:
+    intronic                      4  ( 57.1%)
+    intergenic_proximal           2  ( 28.6%)
+    promoter_proximal             1  ( 14.3%)
+
+  Per-HAR details (sorted by chimp-only positions, descending):
+
+       har  n_chimp_only_positions  n_unique_tfs_lost            category  nearest_gene
+  HAR_1304                      12                  8            intronic           DCC
+  HAR_3009                       6                  6 intergenic_proximal         TRPS1
+   HAR_530                       6                  6            intronic        PDZRN4
+   HAR_988                       4                  4            intronic        IQGAP1
+  HAR_2233                       3                  3            intronic         NDST4
+   HAR_320                       2                  2 intergenic_proximal  RP11-381K7.1
+   HAR_414                       2                  2   promoter_proximal RP11-411D10.3

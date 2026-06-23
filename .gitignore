@@ -1,0 +1,30 @@
+# Large reference genomes — download separately (see data/README.md)
+data/reference/
+
+# Bulk pipeline outputs — regenerate with pipeline commands
+results/alignments/
+results/tf_matrices/
+results/figures/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Python
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# R
+.Rhistory
+.RData
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/

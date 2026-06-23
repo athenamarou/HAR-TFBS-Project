@@ -1,0 +1,8 @@
+har	n_chimp_only_positions	n_unique_tfs_lost	n_positions_on_substitution	n_positions_on_gap	top5_lost_tfs	har_coord	category	nearest_gene	distance_to_gene
+HAR_1304	12	8	4	0	IRX1, IRX2, IRX5, NACC2, DMRTA2	chr18:52614552-52614570	intronic	DCC	0
+HAR_3009	6	6	0	0	Hoxd13, Nobox, PBX1, SHOX, SRY	chr8:115408230-115408249	intergenic_proximal	TRPS1	247
+HAR_530	6	6	2	1	IRX1, IRX2, IRX5, MKX, NACC2	chr12:41513168-41513181	intronic	PDZRN4	0
+HAR_988	4	4	2	0	MSANTD3, NKX2-5, TCF7, TCF7L2	chr15:90401088-90401112	intronic	IQGAP1	0
+HAR_2233	3	3	3	0	POU2F1, POU3F4, POU5F1B	chr4:114945972-114945991	intronic	NDST4	0
+HAR_320	2	2	0	0	Gfi1B, ZGLP1	chr10:111413058-111413071	intergenic_proximal	RP11-381K7.1	60956
+HAR_414	2	2	1	0	MSANTD3, NKX2-5	chr11:46920641-46920661	promoter_proximal	RP11-411D10.3	219

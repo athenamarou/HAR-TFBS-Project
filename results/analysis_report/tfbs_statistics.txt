@@ -1,0 +1,45 @@
+======================================================================
+TFBS STATISTICS SUMMARY
+======================================================================
+
+Total TFBS hits: 1369157
+Unique TFs: 911
+
+Human hits: 680199
+Chimp hits: 688958
+
+======================================================================
+TOP 20 TRANSCRIPTION FACTORS
+======================================================================
+
+ZGLP1                Total: 35429  (Human: 17712, Chimp: 17717)
+VAX2                 Total: 17925  (Human: 8838, Chimp: 9087)
+HOXC8                Total: 16901  (Human: 8325, Chimp: 8576)
+BSX                  Total: 16243  (Human: 8039, Chimp: 8204)
+HOXB2                Total: 15736  (Human: 7758, Chimp: 7978)
+UNCX                 Total: 15290  (Human: 7529, Chimp: 7761)
+GSX1                 Total: 14754  (Human: 7276, Chimp: 7478)
+NKX6-2               Total: 14754  (Human: 7276, Chimp: 7478)
+HOXA1                Total: 14381  (Human: 7089, Chimp: 7292)
+Lhx4                 Total: 14066  (Human: 6935, Chimp: 7131)
+SHOX                 Total: 13882  (Human: 6860, Chimp: 7022)
+ALX3                 Total: 13672  (Human: 6734, Chimp: 6938)
+PDX1                 Total: 13456  (Human: 6633, Chimp: 6823)
+HOXB3                Total: 13456  (Human: 6633, Chimp: 6823)
+HOXA7                Total: 13389  (Human: 6603, Chimp: 6786)
+DLX6                 Total: 13232  (Human: 6523, Chimp: 6709)
+HOXB5                Total: 12859  (Human: 6336, Chimp: 6523)
+RAX2                 Total: 12659  (Human: 6248, Chimp: 6411)
+MNX1                 Total: 12258  (Human: 6044, Chimp: 6214)
+BARX1                Total: 12123  (Human: 5995, Chimp: 6128)
+
+======================================================================
+SPECIES-SPECIFIC TFS
+======================================================================
+
+Human-specific TFs (12): BCL6B, HOXD12::ELK1, NHLH2, NR1H2::RXRA, Nr2F6, PAX1, PAX9, ZBED1, ZBTB41, ZNF275
+                  ... and 2 more
+
+Chimp-specific TFs (7): GLI3, GSC::TBX21, IRF7, ZFP28, ZNF354A, ZNF675, ZNF836
+
+Shared TFs (892): 892 TFs present in both species
