@@ -2,7 +2,6 @@
 
 Genome-wide analysis of **Transcription Factor Binding Site (TFBS) rewiring** in Human Accelerated Regions (HARs), comparing regulatory landscapes between human (hg38) and chimpanzee (panTro6).
 
-**Author:** Athena Marougka — Algorithms in Bioinformatics, MSc Bioinformatics
 
 ---
 
