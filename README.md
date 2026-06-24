@@ -5,7 +5,7 @@ Genome-wide analysis of **Transcription Factor Binding Site (TFBS) rewiring** in
 
 ---
 
-## What this does
+## Purpose
 
 Human Accelerated Regions are genomic sequences conserved across mammals that show a burst of substitutions specifically in the human lineage. This pipeline asks: **do those substitutions disrupt or create transcription factor binding sites?**
 
