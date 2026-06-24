@@ -146,7 +146,5 @@ Example of a HAR with mixed rewiring — shows the colour-coded alignment, TFBS 
 ## Citation
 
 ```
-Marougka, A. (2026). HAR TFBS Pipeline: Transcription Factor Binding Site
-Rewiring in Human Accelerated Regions. MSc Bioinformatics, Algorithms course.
-https://github.com/athenamarou/HAR-TFBS-Pipeline
+Marougka, A. (2026). 
 ```
