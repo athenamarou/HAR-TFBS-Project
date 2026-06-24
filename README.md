@@ -1,4 +1,4 @@
-# HAR TFBS Pipeline
+# Transcription Factor Binding Site Rewiring in Human Accelerated Regions : A Comparative Genomic Analysis of Human vs Chimpanzee Regulatory Elements.
 
 Genome-wide analysis of **Transcription Factor Binding Site (TFBS) rewiring** in Human Accelerated Regions (HARs), comparing regulatory landscapes between human (hg38) and chimpanzee (panTro6).
 
